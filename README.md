@@ -1,4 +1,4 @@
-## Jeroen De Dauw
+### Jeroen De Dauw
 
 CEO of [@ProfessionalWiki] ([professional.wiki])
 
