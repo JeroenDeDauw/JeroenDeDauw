@@ -1,5 +1,3 @@
-### Jeroen De Dauw
-
 CEO of [@ProfessionalWiki] ([professional.wiki])
 
 * Services: [managed MediaWiki hosting], [MediaWiki upgrades], [wiki hosting], [MediaWiki development]
@@ -16,5 +14,5 @@ CEO of [@ProfessionalWiki] ([professional.wiki])
 [MediaWiki development]: https://professional.wiki/en/mediawiki-development
 [EntropyWins.wtf]: https://EntropyWins.wtf
 [JeroenDeDauw on Twitter]: https://twitter.com/JeroenDeDauw
-[jeroendon matrix.org]: https://matrix.to/#/@jeroend:matrix.org
+[jeroend on matrix.org]: https://matrix.to/#/@jeroend:matrix.org
 [@ProfessionalWiki]: https://github.com/ProfessionalWiki/
