@@ -8,7 +8,7 @@ CEO of [@ProfessionalWiki] ([professional.wiki])
 [managed MediaWiki hosting]: https://pro.wiki
 [software dev blog]: https://entropywins.wtf/blog/
 [MediaWiki company blog]: https://professional.wiki/en/blog/
-[MediaWiki hosting blog]: https://www.pro.wiki/blog/
+[MediaWiki hosting blog]: https://www.pro.wiki/blog
 [Wikibase blog]: https://wikibase.consulting/blog/
 [MediaWiki upgrades]: https://professional.wiki/
 [wiki hosting]: https://pro.wiki
